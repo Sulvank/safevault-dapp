@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@metamask/providers": "^21.0.0",
     "@tailwindcss/vite": "^4.0.17",
     "ethers": "^6.13.5",
     "react": "^19.0.0",
