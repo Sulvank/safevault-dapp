@@ -72,11 +72,11 @@
    ```
 2. Install the required dependencies:
    ```bash
-   npm install
+   pnpm install
    ```
 3. Start the development server:
    ```bash
-   npm start
+   pnpm start
    ```
 4. Open your browser and go to `http://localhost:3000` to view the DApp.
 
